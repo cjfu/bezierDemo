@@ -1,8 +1,8 @@
-#贝塞尔曲线Demo
+# 贝塞尔曲线Demo
 
 Android贝塞尔曲线二阶三阶演示Demo
 
-##贝塞尔曲线
+## 贝塞尔曲线
 
 参考资料：https://zh.wikipedia.org/wiki/%E8%B2%9D%E8%8C%B2%E6%9B%B2%E7%B7%9A
 
@@ -18,11 +18,11 @@ Android贝塞尔曲线二阶三阶演示Demo
 
 ![240px-Bézier_3_big](C:\Users\Machenike\Desktop\240px-Bézier_3_big.gif)
 
-##Demo示例：
+## Demo示例：
 
 Demo中黑色点为起止点，绿色点为控制点。红色线为贝塞尔曲线
 
-###二阶贝塞尔演示：
+### 二阶贝塞尔演示：
 
 操作步骤：
 
