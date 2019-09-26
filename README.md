@@ -48,4 +48,4 @@ Demo中黑色点为起止点，绿色点为控制点。红色线为贝塞尔曲�
 
 4、控制点可拖动，贝塞尔曲线实时刷新
 
-![image](https://github.com/cjfu/bezierDemo/blob/master/二阶贝塞尔Demo.gif)
+![image](https://github.com/cjfu/bezierDemo/blob/master/三阶贝塞尔Demo.gif)
