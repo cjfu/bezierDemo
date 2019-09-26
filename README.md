@@ -12,11 +12,11 @@ Android贝塞尔曲线二阶三阶演示Demo
 
 二阶贝塞尔曲线：
 
-![240px-Bézier_2_big](C:\Users\Machenike\Desktop\240px-Bézier_2_big.gif)
+![image](https://github.com/cjfu/bezierDemo/blob/master/240px-Bézier_2_big.gif)
 
 三阶贝塞尔曲线：
 
-![240px-Bézier_3_big](C:\Users\Machenike\Desktop\240px-Bézier_3_big.gif)
+![image](https://github.com/cjfu/bezierDemo/blob/master/240px-Bézier_3_big.gif)
 
 ## Demo示例：
 
@@ -34,7 +34,7 @@ Demo中黑色点为起止点，绿色点为控制点。红色线为贝塞尔曲�
 
 4、控制点可拖动，贝塞尔曲线实时刷新
 
-![二阶贝塞尔Demo](C:\Users\Machenike\Desktop\二阶贝塞尔Demo.gif)
+![image](https://github.com/cjfu/bezierDemo/blob/master/二阶贝塞尔Demo.gif)
 
 三阶贝塞尔演示：
 
@@ -48,4 +48,4 @@ Demo中黑色点为起止点，绿色点为控制点。红色线为贝塞尔曲�
 
 4、控制点可拖动，贝塞尔曲线实时刷新
 
-![三阶贝塞尔Demo](C:\Users\Machenike\Desktop\三阶贝塞尔Demo.gif)
+![image](https://github.com/cjfu/bezierDemo/blob/master/二阶贝塞尔Demo.gif)
